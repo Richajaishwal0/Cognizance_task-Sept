@@ -1,1 +1,0 @@
-# Cognizance_task-Sept
