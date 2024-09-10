@@ -12,7 +12,7 @@ def pairs(k, arr):
             count += 1
     return count // 2
 ```
-# Task 2
+## Task 2
 Code:
 ## 
 ```bash
