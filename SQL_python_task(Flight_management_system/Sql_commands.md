@@ -17,7 +17,7 @@ booking_id INT AUTO_INCREMENT PRIMARY KEY,
 flight_number VARCHAR(10),
 user_name VARCHAR(50),
 FOREIGN KEY (flight_number) REFERENCES available_flights(flight_number));
-
 ```
+##Screenshot for sql command
 ![image](https://github.com/user-attachments/assets/3bc6e320-e824-4684-8bdc-08fbd7425576)
 
