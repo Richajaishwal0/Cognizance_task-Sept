@@ -35,7 +35,6 @@ Code:
         else:
             minute_rem = 60- m
             return (f"{list_numbers[minute_rem-1]} minutes to {list_numbers[h]}")
-            
-            
 
 ```
+![image](https://github.com/user-attachments/assets/713ef0fb-c938-49c5-b789-dfc4dc17362e)
